@@ -12,7 +12,7 @@ Maker Media GmbH
  
 Hier finden Sie den Arduino Code und die 3D-Druckvorlagen.
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/21 ab Seite 30](https://www.heise.de/select/make/). 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/21 ab Seite 48](https://www.heise.de/select/make/2021/2/2030713551620947076). 
 
 
 
@@ -20,7 +20,7 @@ Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 2/2
 
 | **Anzahl** | **Bezeichnung**                     |
 | :--------- | ----------------------------------- |
-| 1          | Gehäuse z.B. 170 mm X 120nn X 55 mm |
+| 1          | Gehäuse z.B. 170 mm X 120mm X 55 mm |
 | 1          | Arduino Nano                        |
 | 1          | 10 Segment LED Bar                  |
 | 1          | 10 mm RGB LED                       |
