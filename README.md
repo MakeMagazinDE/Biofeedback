@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ### In diesem Artikel aus Make 2/21 zeigen wir, wie Sie mithilfe einfacher Elektronik und einem Arduino Nano Ihren Herzschlag und die Respiratorische Sinusarrhythmie (RSA) darstellen und trainieren können, um Ihr Herz zu trainieren und sich zu entspannen.
 
-![Picture](https://github.com/MakeMagazinDE/biofeedback/blob/master/biofeedback.jpg) 
+![Picture](https://github.com/MakeMagazinDE/biofeedback/blob/main/biofeedback.jpg?raw=true) 
  
 Hier finden Sie den Arduino Code und die 3D-Druckvorlagen.
 
